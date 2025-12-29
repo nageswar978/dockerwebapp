@@ -167,7 +167,7 @@
     </dependencies>
 	<distributionManagement>
     <repository>
-        <id>nexus-releases</id>
+        <id>myrepo</id>
         <name>Nexus Release Repository</name>
         <url>http://16.171.16.161:8081/repository/maven-releases/</url>
     </repository>

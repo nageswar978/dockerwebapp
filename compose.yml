@@ -11,6 +11,6 @@ services:
    image: shaikmustafa/mynewapp:appimage
    container_name: containerapp
    ports:
-     - "1234:8080"
+     - "1111:8080"
    depends_on:
      - "devopsdb"
